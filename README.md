@@ -1,2 +1,2 @@
 # Cozy-BookNook
-A cozy book reading organizer website.
+A cozy digital reading sanctuary that helps book lovers organize their personal library, track reading progress, discover recommendations, and connect with fellow readers.
